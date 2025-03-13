@@ -26,7 +26,7 @@ A **Linked List** is a linear data structure where elements (nodes) are linked t
 
 🚀 **How to Learn Linked Lists Effectively.**
 
-Since you're a **CS** student and want to master DSA, follow this structured learning path:
+ Follow this structured learning path:
 
 1️⃣ **Learn the Basics (Theory + Implementation).**
 
