@@ -179,15 +179,13 @@ fact(4)
 ```js 
     function printNumberR(n){
         // base case
-        if(n < 0) return 
+        if(n < 0) return;
 
-        console.log(n) // 5-0 
-        // eikhane recursive function ta loop korche up to lowest.
+        console.log(n) // 5-0   // eikhane recursive function ta loop korche up to lowest.
+       
         printNumberR(n - 1) // jokhon lowest number e ase pochabe tokhon call stack ta call hote thakbe.
 
-        console.log(n) // 0-5 
-
-        // ei khanke function ta call korar somoy sobar seser thake call korche 0,1,2,3,4,5
+        console.log(n) // 0-5  // ei khanke function ta call korar somoy sobar seser thake call korche 0,1,2,3,4,5
     }
 
     printNumberR(5)
