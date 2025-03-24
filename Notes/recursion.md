@@ -23,7 +23,7 @@ It's often used to break down complex problems into simpler ones and can be aprt
 
 ## Understanding Call Stack 
 
-Call Stack is a data structure. When i function call then all of the function call one ofter another.
+Call Stack is a data structure. When a function call then all of the function call one ofter another.
 
 
 **Example:**
