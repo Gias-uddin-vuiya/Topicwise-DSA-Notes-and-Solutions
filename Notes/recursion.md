@@ -268,4 +268,4 @@ function collectEvenValuesImpure(arr){
 }
 
 ```
-Impure recursion is memory memory effecient and pure recursion is not memory effecient.
+Impure recursion is memory effecient and pure recursion is not memory effecient.
