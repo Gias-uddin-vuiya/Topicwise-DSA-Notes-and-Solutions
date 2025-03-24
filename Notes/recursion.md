@@ -6,6 +6,7 @@ Recursion is a programming technique where **a function calls itself to solve sm
 It's often used to break down complex problems into simpler ones and can be aprticularly useful for problems that can be divided into similar sub-problems.
 
 
+
 **Real Life Example:**
 
 ## Where it is used?
@@ -270,6 +271,3 @@ function collectEvenValuesImpure(arr){
 
 ```
 Impure recursion is memory memory effecient and pure recursion is not memory effecient.
-
-
-
